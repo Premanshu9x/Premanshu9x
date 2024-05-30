@@ -1,11 +1,11 @@
-![logo](https://github.com/Premanshu09x/Premanshu09x/blob/main/Screenshot.png)
+![logo](https://github.com/Premanshu9x/Premanshu9x/blob/main/Screenshot.png)
 
 <h1 align="center">Hi 👋, I'm Premanshu Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=premanshu09x&label=Profile%20views&color=0e75b6&style=flat" alt="premanshu09x" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=premanshu9x&label=Profile%20views&color=0e75b6&style=flat" alt="premanshu9x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premanshu09x" alt="premanshu09x" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premanshu9x" alt="premanshu9x" /></a> </p>
 
 <img align="right" width="400" alt="coding gif" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" /></img>
 
