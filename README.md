@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pj2nyf3ce-premanshus-projects.vercel.app/](https://portfolio-pj2nyf3ce-premanshus-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-premanshus-projects.vercel.app/](https://portfolio-premanshus-projects.vercel.app/)
 
 - 📫 How to reach me **09anshu850@gmail.com**
 
